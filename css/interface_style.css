@@ -1,0 +1,31 @@
+body {
+  background-color: #455A64;
+}
+
+
+td {
+  width: 200px;
+  height: 20px;
+  background-color: #455A64;
+  color: #FFFFFF;
+  font-size: 20px;
+}
+
+input[type=radio] {
+  font-size: 30px;
+}
+
+label {
+  font-size: 20px;
+  color: #FFFFFF;
+}
+
+h1 {
+  color: #455A64;
+}
+
+p {
+font-size: 20px;
+color: #FFFFFF;
+text-align: center;
+}
